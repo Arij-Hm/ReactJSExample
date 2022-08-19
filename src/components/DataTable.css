@@ -1,0 +1,10 @@
+.Table{
+    text-align: center;
+    margin: auto;
+}
+
+.Table tr{
+    background-color:bisque;
+    border-radius: 50px;
+    font-size: x-large;
+}
